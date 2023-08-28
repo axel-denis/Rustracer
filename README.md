@@ -155,3 +155,8 @@ cargo bench --bench frame -- --quick
 
 Contributions are always welcome!
 The school year being over, the project sees its development completed, despite several limitations in the project.
+
+
+## License
+
+[MIT](./LICENSE.txt)
