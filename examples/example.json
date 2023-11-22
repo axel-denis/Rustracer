@@ -84,42 +84,6 @@
       "radius": 20
     },
     {
-      "name": "sphere 2",
-      "transform": {
-        "pos": {
-          "x": 0,
-          "y": 100,
-          "z": 0
-        },
-        "rotation": {
-          "x": 0,
-          "y": 0,
-          "z": 0
-        },
-        "scale": 1.0
-      },
-      "texture": {
-        "texture_type": 1,
-        "color": {
-          "r": 50,
-          "g": 0,
-          "b": 255
-        },
-        "secondary_color" : {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        },
-        "diffuse": 0.7,
-        "ambient": 0.5,
-        "specular": 0.2,
-        "shininess": 4.0,
-        "metalness": 0.5,
-        "roughness": 0
-      },
-      "radius": 200
-    },
-    {
       "name": "sphere 3",
       "type": "sphere",
       "transform": {
@@ -149,7 +113,7 @@
         "specular": 0.5,
         "shininess": 8,
         "metalness": 0.5,
-        "roughness": 0
+        "roughness": 0.5
       },
       "radius": 4
     },
@@ -306,47 +270,6 @@
         "roughness": 0
       },
       "vector": -1.5
-    },
-    {
-      "name": "mesh 1",
-      "type": "mesh",
-      "transform": {
-        "pos": {
-          "x": 0,
-          "y": 5,
-          "z": 1
-        },
-        "rotation": {
-          "x": 0,
-          "y": 0,
-          "z": 0
-        },
-        "scale": {
-          "x": 1,
-          "y": 1,
-          "z": 1
-        }
-      },
-      "texture": {
-        "texture_type": 1,
-        "secondary_color": {
-          "r" : 100,
-          "g" : 100,
-          "b" : 200
-        },
-        "color": {
-          "r": 255,
-          "g": 0,
-          "b": 255
-        },
-        "diffuse": 0.7,
-        "ambient": 0.5,
-        "specular": 0.2,
-        "shininess": 4.0,
-        "metalness": 0.5,
-        "roughness": 0
-      },
-      "file": "dice.obj"
     }
   ],
   "lights": {
