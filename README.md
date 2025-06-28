@@ -1,3 +1,4 @@
+**Note:** this is a school project. Altrough we are still proud of the result, please note that this was one of our first Rust projects, and that it doesn't reflect our current code quality level.
 
 # RayTracer
 
